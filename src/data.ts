@@ -1,6 +1,6 @@
 import { Serie } from "./Serie.js";
 
-export const series = [
+export const series: Serie[] = [
   new Serie(
     1,
     "Breaking Bad",
